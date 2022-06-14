@@ -2,13 +2,13 @@ Webapplikasjon for å knytte mennesker sammen gjennom aktivitetsforslag og organ
 
 Prosjektet er laget av gruppemedlemmer:
 
-Henriette Viola Christine Ameln
-Bendik Natvig Backe
-Emily Kate Marie Blakseth
-Magnus Christian Kvist Jacobsen
-Håkon Telje
-Nima Hakimi
-Erik Hæstad Bjørnstad
+- Henriette Viola Christine Ameln
+- Bendik Natvig Backe
+- Emily Kate Marie Blakseth
+- Magnus Christian Kvist Jacobsen
+- Håkon Telje
+- Nima Hakimi
+- Erik Hæstad Bjørnstad
 
 **Kjøring av applikasjonen**: 
     
